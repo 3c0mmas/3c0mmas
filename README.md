@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3c0mmas     
+- 👋 Hi, I’m @3c0mmas      
 - 👀 I’m interested in dApps   
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on ...   
